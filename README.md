@@ -8,9 +8,11 @@ I've developed an innovative solution that analyzes tennis players in videos to 
 This project goes beyond traditional video analysis. By leveraging state-of-the-art technologies like YOLO, PyTorch, and CNNs, it provides detailed insights into tennis player performance, helping players and coaches make data-driven decisions to improve their game.
 
 ## Output Showcase
-Witness the power of this system with real-time statistics overlaid on the video, offering a comprehensive view of player dynamics and shot analysis.
-
+Witness the power of this system with real-time statistics overlaid on the video, offering a comprehensive view of player dynamics and shot analysis
 ![Screenshot](media/outputcapture.PNG)
+
+## Watcg The Output 
+[![Watch the video](https://img.youtube.com/vi/NypyFoQc-EE/maxresdefault.jpg)](https://youtu.be/NypyFoQc-EE)
 
 ## Key Technologies Used
 - YOLO from Ultralytics and Roboflow for precise player and tennis ball detection
