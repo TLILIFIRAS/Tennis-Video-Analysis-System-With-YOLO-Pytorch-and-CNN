@@ -10,7 +10,7 @@ This project goes beyond traditional video analysis. By leveraging state-of-the-
 ## Output Showcase
 Witness the power of this system with real-time statistics overlaid on the video, offering a comprehensive view of player dynamics and shot analysis.
 
-![Screenshot](media/outputcapture.png)
+![Screenshot](media/outputcapture.PNG)
 
 ## Key Technologies Used
 - YOLO from Ultralytics and Roboflow for precise player and tennis ball detection
