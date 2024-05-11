@@ -11,7 +11,7 @@ This project goes beyond traditional video analysis. By leveraging state-of-the-
 Witness the power of this system with real-time statistics overlaid on the video, offering a comprehensive view of player dynamics and shot analysis
 ![Screenshot](media/outputcapture.PNG)
 
-## Watcg The Output 
+## Watch The Output 
 [![Watch the video](https://img.youtube.com/vi/NypyFoQc-EE/maxresdefault.jpg)](https://youtu.be/NypyFoQc-EE)
 
 ## Key Technologies Used
